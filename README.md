@@ -1,5 +1,5 @@
- Hi there! 👋 I'm Khin Than Thar
-
+** Hi there! 👋 I'm Khin Than Thar
+**
  🚀 About Me
 
 I'm a Business Information Systems student at the University of Computer Studies, Yangon (UCSY), with a strong passion for data analytics, business intelligence, and technology. I'm continuously exploring new ways to leverage data to drive insights and decision-making.
