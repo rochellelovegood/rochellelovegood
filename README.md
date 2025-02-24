@@ -28,7 +28,7 @@ I'm a Business Information Systems student at the University of Computer Studies
 
 - 💼 [LinkedIn](www.linkedin.com/in/khin-than-thar-2038631b5)
 - 📧 [Email](khinthanthar2004@gmail.com)
-- 📝 [Portfolio]([your-portfolio-url](https://porfoliomm.netlify.app/))
+- 📝 [Portfolio](https://porfoliomm.netlify.app/)
 
 Feel free to check out my repositories and projects! 🚀
 
